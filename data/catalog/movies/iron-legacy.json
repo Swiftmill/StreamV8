@@ -1,0 +1,25 @@
+{
+  "id": "iron-legacy",
+  "title": "Iron Legacy",
+  "description": "A retired detective returns to the force when a string of high-tech heists reveals a conspiracy that reaches the city's elite.",
+  "year": 2022,
+  "genres": ["Action", "Crime"],
+  "posterUrl": "https://cdn.example.com/images/iron-legacy/poster.jpg",
+  "backdropUrl": "https://cdn.example.com/images/iron-legacy/backdrop.jpg",
+  "streamUrl": "https://cdn.example.com/videos/iron-legacy/master.m3u8",
+  "duration": 6780,
+  "contentRating": "R",
+  "published": true,
+  "featured": false,
+  "tags": ["heist", "neo-noir"],
+  "subtitles": [
+    {
+      "language": "en",
+      "url": "https://cdn.example.com/subtitles/iron-legacy/en.vtt"
+    }
+  ],
+  "categories": ["action", "popular"],
+  "createdAt": "2024-02-08T10:00:00.000Z",
+  "updatedAt": "2024-02-08T10:00:00.000Z",
+  "views": 0
+}
