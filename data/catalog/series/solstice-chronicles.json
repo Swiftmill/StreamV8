@@ -1,0 +1,55 @@
+{
+  "slug": "solstice-chronicles",
+  "title": "Solstice Chronicles",
+  "description": "An investigative journalist uncovers a clandestine program that manipulates the weather, sparking a global chase for the truth.",
+  "year": 2024,
+  "genres": ["Drama", "Thriller"],
+  "posterUrl": "https://cdn.example.com/images/solstice-chronicles/poster.jpg",
+  "backdropUrl": "https://cdn.example.com/images/solstice-chronicles/backdrop.jpg",
+  "featured": true,
+  "published": true,
+  "seasons": [
+    {
+      "seasonNumber": 1,
+      "title": "Season 1",
+      "synopsis": "The conspiracy begins to unravel as whistleblowers risk everything.",
+      "episodes": [
+        {
+          "episodeNumber": 1,
+          "title": "Signal",
+          "description": "A mysterious data leak points Elise toward an abandoned weather station.",
+          "duration": 3600,
+          "streamUrl": "https://cdn.example.com/videos/solstice-chronicles/s1e1/master.m3u8",
+          "subtitles": [
+            {
+              "language": "en",
+              "url": "https://cdn.example.com/subtitles/solstice-chronicles/s1e1/en.vtt"
+            }
+          ],
+          "thumbnailUrl": "https://cdn.example.com/images/solstice-chronicles/s1e1.jpg",
+          "releasedAt": "2024-01-12T08:00:00.000Z",
+          "published": true
+        },
+        {
+          "episodeNumber": 2,
+          "title": "Interference",
+          "description": "Elise partners with a climate scientist to decode encrypted files.",
+          "duration": 3680,
+          "streamUrl": "https://cdn.example.com/videos/solstice-chronicles/s1e2/master.m3u8",
+          "subtitles": [
+            {
+              "language": "en",
+              "url": "https://cdn.example.com/subtitles/solstice-chronicles/s1e2/en.vtt"
+            }
+          ],
+          "thumbnailUrl": "https://cdn.example.com/images/solstice-chronicles/s1e2.jpg",
+          "releasedAt": "2024-01-19T08:00:00.000Z",
+          "published": true
+        }
+      ]
+    }
+  ],
+  "createdAt": "2024-02-01T10:00:00.000Z",
+  "updatedAt": "2024-02-01T10:00:00.000Z",
+  "tags": ["conspiracy", "climate"]
+}

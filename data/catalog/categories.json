@@ -1,0 +1,29 @@
+[
+  {
+    "id": "sci-fi",
+    "name": "Science Fiction",
+    "slug": "sci-fi",
+    "order": 1,
+    "heroId": "aurora-rising",
+    "createdAt": "2024-02-10T09:00:00.000Z",
+    "updatedAt": "2024-02-10T09:00:00.000Z"
+  },
+  {
+    "id": "trending",
+    "name": "Trending Now",
+    "slug": "trending",
+    "order": 2,
+    "heroId": "solstice-chronicles",
+    "createdAt": "2024-02-10T09:05:00.000Z",
+    "updatedAt": "2024-02-10T09:05:00.000Z"
+  },
+  {
+    "id": "action",
+    "name": "Action",
+    "slug": "action",
+    "order": 3,
+    "heroId": "iron-legacy",
+    "createdAt": "2024-02-10T09:10:00.000Z",
+    "updatedAt": "2024-02-10T09:10:00.000Z"
+  }
+]
